@@ -1,0 +1,30 @@
+{
+  "name": "rnx-api",
+  "version": "1.0.0",
+  "description": "yeh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unx21/rnx-api.git"
+  },
+  "keywords": [
+    "YNTKTS"
+  ],
+  "author": "U n x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unx21/rnx-api/issues"
+  },
+  "homepage": "https://github.com/unx21/rnx-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
